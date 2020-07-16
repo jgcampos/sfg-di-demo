@@ -1,0 +1,36 @@
+# this is a comment
+
+name: John
+
+names:  # Comment at the end of line
+  - John
+  - Paul
+  - Ringo
+
+pound_sign: "#"
+
+book:
+    author: Joe Buck
+    publisher: random house
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #No, false, FALSE
+
+string_val: "this is it's a quote"
+
+colon_string: "my courses: one two three"
+
+include_new_lines: |
+  ghjkgj jh ghj jhg kjh
+  jg kjh ghjk  kl jkl  kl jkl
+   kjkj lk kl kl ñ jjk
+
+ignore_new_lines: >
+  this is
+  just one long
+  line
